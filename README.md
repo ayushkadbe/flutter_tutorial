@@ -9,13 +9,13 @@ State Management
 Widgets
 -------
 * List
- - Create Data Source
-   - Represent type of item > creating a class of each item 
-   - Create list of items
- - Convert Data Source into Widgets
-   - ListView.builder
-     - Card:  panel with slightly rounded corners and an elevation shadow
-       - ListTile: contains one to three lines of text optionally flanked by icons or other widgets
+   - Create Data Source
+     - Represent type of item > creating a class of each item 
+     - Create list of items
+   - Convert Data Source into Widgets
+     - ListView.builder
+       - Card:  panel with slightly rounded corners and an elevation shadow
+         - ListTile: contains one to three lines of text optionally flanked by icons or other widgets
 
 * Navigator
   
