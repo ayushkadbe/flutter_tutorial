@@ -15,7 +15,9 @@ Widgets
    - Convert Data Source into Widgets
      - ListView.builder
        - Card:  panel with slightly rounded corners and an elevation shadow
-         - ListTile: contains one to three lines of text optionally flanked by icons or other widgets
+         - ListTile: contains one to three lines of text optionally flanked by icons or other widget
+            -title:
+            -trailing: Icon Widget
 
 * Navigator
   
